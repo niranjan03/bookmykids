@@ -1,0 +1,28 @@
+.footer{
+    background-image: url('/src/assest/footer.png');
+    padding: 20px 20px;
+    background-size: cover;
+    background-repeat: space;
+}
+.footer-title{
+    color: #BB362A;
+    font-size: 26px;
+}
+.footer ul{
+    color:#FFFFFF;
+    list-style: none;
+    padding: 0%;
+}
+.col-6{
+    padding-bottom: 80px;
+}
+.Social{
+    display: flex;
+    gap: 50px;
+    color: #BB362A;
+    font-size: 22px;
+}
+.Social ul{
+    display: flex;
+    gap: 10px;
+}

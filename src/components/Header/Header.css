@@ -1,0 +1,33 @@
+.Navbar{
+    background-color: #000000;
+    
+    display: flex;
+    gap: 25px;
+    
+    align-items: center;
+    color: white;
+    padding: 20px 5%;
+
+}
+.logo{
+    Width:210px;
+    Height:33.6px;
+}
+.Navbar ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    padding-left: 160px;
+}
+.Navbar li{
+    color: white;
+    
+}
+.Login-btn{
+    padding: 10px 2%;
+    color: white;
+    background: #BB362A;
+    font-size: 18px;
+    border-radius: 20px;
+    border: none;
+}

@@ -1,0 +1,55 @@
+.Banner{
+    padding: 70px 40px 20px 40px;
+    
+}
+.title{
+    color: #BB362A;
+    font-size: 30px;
+}
+.Banner-Img{
+    Width: 100%;
+    Height: 80%;
+    align-self: center;
+    border-radius: 20px;
+}
+
+.text-banner p{
+    padding: 20px 0px;
+    font-size: 18px;
+}
+.Join-now{
+    background-color: #BB362A;
+    color: white;
+    align-items: center;
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 18px;
+    border: none;
+}
+.paragraph{
+    padding: 10px 10px;
+}
+.paragraph h4{
+    color: #BB362A;
+    font-size: 24px;
+}
+.paragraph p{
+    color: black;
+    font-size: 16px;
+}
+.feature-job span{
+    color: #BB362A;
+    font-weight: 600;
+    font-size: 20px;
+}
+.feature-job button{
+    border: 1px solid black;
+    color: #BB362A;
+    background: transparent;
+    padding: 10px 10px;
+    border-radius: 2px;
+}
+.feature-job button .FontAwesomeIcon{
+    color: #BB362A;
+}

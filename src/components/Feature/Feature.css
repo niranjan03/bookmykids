@@ -1,0 +1,53 @@
+.garba-card {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+  }
+  
+  .card-left {
+    display: flex;
+    align-items: center;
+  }
+  .heading{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .color-box {
+    width: 50px;
+    height: 50px;
+    background-color: green; /* Replace with desired color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+  }
+  
+  .card-details {
+    margin-left: 10px;
+  }
+  
+  .card-details span{
+    color: white;
+    background-color: #BB362A;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-weight: 200;
+    font-size: 12px;
+    align-self: center;
+  } 
+  .card-details h3{
+    font-size: 20px;
+  }
+  .card-details p{
+    font-size: 14px;
+  }
+  .apply-now-button {
+    background-color: #BB362A !important;
+    color: white !important;
+    padding: 5px 5px;
+  }
